@@ -1,0 +1,5 @@
+selenium
+PySide2
+requests
+pandas
+pycryptodome
