@@ -1,4 +1,4 @@
-## 易班2.3使用说明
+## 易班2.0使用说明
 
 ![picture](https://github.com/saiGou-14H/save-image/blob/main/%E6%98%93%E7%8F%AD/%E6%98%93%E7%8F%AD2.0/picture.jpg)
 
