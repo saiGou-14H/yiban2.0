@@ -160,7 +160,7 @@ class UI:
                 data = self.request.recv(self.BUF_SIZE)
                 ls = data.decode('utf-8').split('|')[1].split('-')
                 if len(ls) == 2:
-                    isLogin = Chrome(ls[0], ls[1], captcha=Captcha("70852096","qq70852096"),run_id=None, console=None,WCBOT = self.request,data=data).Login()
+                    isLogin = Chrome(ls[0], ls[1], captcha=Captcha("70852096","xxxxxxxx"),run_id=None, console=None,WCBOT = self.request,data=data).Login()
                     if(isLogin==False):
                         string = data.decode('utf-8')
                         string = string + '|失败'
